@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1><img src="images/octank.jpg"></img>Octank - Continous Engineering Platform</h1>
+                <h1><img src="images/octank.png"></img> Continous Engineering Platform</h1>
                 <h2>By - Cheerleaders Team 4</h2>
                 <p>Octank e-commerce web  is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
